@@ -146,4 +146,3 @@ tests/test_logout.py .                                          [100%]
 ============================== 4 passed in 12.34s ============================
 ```
 
-- Clean, maintainable code ready for **portfolio presentation**
